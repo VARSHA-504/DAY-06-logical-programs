@@ -2,7 +2,7 @@ package LogicalProblems;
 
 import java.util.Scanner;
 
-public class fibonacciSeries {
+public class primeNumber {
     public static void main(String[] args) {
         int i;
         int count=0;
